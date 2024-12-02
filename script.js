@@ -4,7 +4,7 @@ new Chart(
     ctx, {
         type: 'bar',
         data: {
-            labels: ["Red","Blue","Yellow","Black"],
+            labels: ["Aqua","Green","Yellow","Pink"],
             datasets: [
                 {
                     label: "Votes",
